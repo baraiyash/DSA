@@ -1,1 +1,5 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Data Structures & Algorithms
+
+Java solutions for Data Structures and Algorithms problems.
+
+Focused on problem-solving, algorithmic thinking, and interview preparation.
