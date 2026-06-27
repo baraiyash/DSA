@@ -32,4 +32,12 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/baraiyash/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/baraiyash/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
