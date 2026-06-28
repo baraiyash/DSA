@@ -28,6 +28,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/baraiyash/DSA/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
