@@ -24,6 +24,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/baraiyash/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/baraiyash/DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/baraiyash/DSA/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/baraiyash/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
