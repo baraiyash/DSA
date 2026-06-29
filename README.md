@@ -55,4 +55,8 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/baraiyash/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
