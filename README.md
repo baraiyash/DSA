@@ -11,6 +11,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0125-valid-palindrome](https://github.com/baraiyash/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
