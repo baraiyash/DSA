@@ -12,11 +12,13 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,20 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
