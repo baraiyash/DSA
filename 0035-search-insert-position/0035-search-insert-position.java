@@ -16,6 +16,6 @@ class Solution {
             }
         }
 
-        return low;
+        return high +1;
     }
 }
