@@ -88,11 +88,13 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -117,6 +119,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -135,4 +138,8 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
