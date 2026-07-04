@@ -30,6 +30,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
 ## Linked List
 |  |
 | ------- |
@@ -133,4 +134,5 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0657-robot-return-to-origin](https://github.com/baraiyash/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
+| [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
