@@ -1,40 +1,40 @@
 class Solution {
 
+    List<int[]>[] graph;
+    boolean[] visited;
+    int ans = Integer.MAX_VALUE;
+
     public int minScore(int n, int[][] roads) {
 
-        List<int[]>[] graph = new ArrayList[n + 1];
+        graph = new ArrayList[n + 1];
 
         for (int i = 1; i <= n; i++)
             graph[i] = new ArrayList<>();
 
         for (int[] road : roads) {
+
             graph[road[0]].add(new int[]{road[1], road[2]});
             graph[road[1]].add(new int[]{road[0], road[2]});
         }
 
-        Queue<Integer> q = new LinkedList<>();
-        boolean[] vis = new boolean[n + 1];
+        visited = new boolean[n + 1];
 
-        q.offer(1);
-        vis[1] = true;
-
-        int ans = Integer.MAX_VALUE;
-
-        while (!q.isEmpty()) {
-
-            int node = q.poll();
-
-            for (int[] next : graph[node]) {
-
-                ans = Math.min(ans, next[1]);
-
-                if (!vis[next[0]]) {
-                    vis[next[0]] = true;
-                    q.offer(next[0]);
-                }
-            }
-        }
+        dfs(1);
 
         return ans;
+    }
+
+    void dfs(int node) {
+
+        visited[node] = true;
+
+        for (int[] next : graph[node]) {
+
+            ans = Math.min(ans, next[1]);
+
+            if (!visited[next[0]]) {
+                dfs(next[0]);
+            }
+        }
     }
 }
