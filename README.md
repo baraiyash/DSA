@@ -14,6 +14,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baraiyash/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -47,6 +48,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/baraiyash/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
