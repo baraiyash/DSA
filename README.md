@@ -12,6 +12,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baraiyash/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -48,6 +49,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -74,6 +76,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -147,4 +150,12 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
