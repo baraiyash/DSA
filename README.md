@@ -19,6 +19,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
+| [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1598-crawler-log-folder](https://github.com/baraiyash/DSA/tree/master/1598-crawler-log-folder) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -52,12 +53,14 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -170,4 +173,5 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
