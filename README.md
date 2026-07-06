@@ -20,6 +20,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
+| [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1598-crawler-log-folder](https://github.com/baraiyash/DSA/tree/master/1598-crawler-log-folder) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -61,6 +62,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
+| [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
