@@ -41,6 +41,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/baraiyash/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
 | ------- |
