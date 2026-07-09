@@ -26,6 +26,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Database
 |  |
 | ------- |
@@ -116,6 +119,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,6 +148,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
