@@ -27,6 +27,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -59,6 +61,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +70,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -138,6 +142,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baraiyash/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -149,6 +154,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/baraiyash/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -184,8 +190,13 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/baraiyash/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
