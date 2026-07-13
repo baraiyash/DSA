@@ -35,6 +35,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -45,6 +46,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/baraiyash/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/baraiyash/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -61,6 +63,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
