@@ -206,4 +206,8 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/baraiyash/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
