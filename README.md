@@ -31,6 +31,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/baraiyash/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/baraiyash/DSA/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/baraiyash/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/baraiyash/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/baraiyash/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/baraiyash/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -185,6 +189,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,4 +227,5 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/baraiyash/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/baraiyash/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
