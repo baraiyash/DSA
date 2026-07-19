@@ -97,6 +97,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/baraiyash/DSA/tree/master/0657-robot-return-to-origin) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/baraiyash/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/baraiyash/DSA/tree/master/1598-crawler-log-folder) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/baraiyash/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -106,6 +107,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0020-valid-parentheses](https://github.com/baraiyash/DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/baraiyash/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/baraiyash/DSA/tree/master/1598-crawler-log-folder) |
 ## Recursion
 |  |
@@ -216,6 +218,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/baraiyash/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/baraiyash/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -242,4 +245,8 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/baraiyash/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/baraiyash/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
