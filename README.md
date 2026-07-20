@@ -20,6 +20,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
+| [1260-shift-2d-grid](https://github.com/baraiyash/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/baraiyash/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -156,6 +157,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/baraiyash/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/baraiyash/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/baraiyash/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -196,6 +198,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0657-robot-return-to-origin](https://github.com/baraiyash/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/baraiyash/DSA/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/baraiyash/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
