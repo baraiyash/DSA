@@ -14,6 +14,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baraiyash/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +124,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/baraiyash/DSA/tree/master/1331-rank-transform-of-an-array) |
