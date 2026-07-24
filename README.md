@@ -15,6 +15,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/baraiyash/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
@@ -125,6 +126,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/baraiyash/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/baraiyash/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -140,6 +142,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/baraiyash/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
