@@ -10,6 +10,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/baraiyash/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/baraiyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baraiyash/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/baraiyash/DSA/tree/master/0136-single-number) |
@@ -54,6 +55,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/baraiyash/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
