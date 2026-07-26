@@ -20,6 +20,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0219-contains-duplicate-ii](https://github.com/baraiyash/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
@@ -59,6 +60,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/baraiyash/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -93,6 +95,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/baraiyash/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/baraiyash/DSA/tree/master/1331-rank-transform-of-an-array) |
