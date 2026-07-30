@@ -60,6 +60,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/baraiyash/DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -214,6 +215,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/baraiyash/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/baraiyash/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
@@ -260,6 +262,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/baraiyash/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/baraiyash/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/baraiyash/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/baraiyash/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
