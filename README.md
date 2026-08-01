@@ -22,6 +22,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
+| [0819-most-common-word](https://github.com/baraiyash/DSA/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/baraiyash/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/baraiyash/DSA/tree/master/0881-boats-to-save-people) |
@@ -112,6 +113,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/baraiyash/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/baraiyash/DSA/tree/master/0657-robot-return-to-origin) |
+| [0819-most-common-word](https://github.com/baraiyash/DSA/tree/master/0819-most-common-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/baraiyash/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/baraiyash/DSA/tree/master/1598-crawler-log-folder) |
@@ -137,6 +139,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/baraiyash/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/baraiyash/DSA/tree/master/0242-valid-anagram) |
+| [0819-most-common-word](https://github.com/baraiyash/DSA/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/baraiyash/DSA/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/baraiyash/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/baraiyash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -235,6 +238,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/baraiyash/DSA/tree/master/0169-majority-element) |
+| [0819-most-common-word](https://github.com/baraiyash/DSA/tree/master/0819-most-common-word) |
 | [3312-sorted-gcd-pair-queries](https://github.com/baraiyash/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
