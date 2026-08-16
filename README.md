@@ -48,6 +48,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | ------- |
 | [0035-search-insert-position](https://github.com/baraiyash/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/baraiyash/DSA/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/baraiyash/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/baraiyash/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/baraiyash/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -287,4 +288,8 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/baraiyash/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/baraiyash/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
