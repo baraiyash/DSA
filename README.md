@@ -19,6 +19,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0217-contains-duplicate](https://github.com/baraiyash/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/baraiyash/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/baraiyash/DSA/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/baraiyash/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/baraiyash/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/baraiyash/DSA/tree/master/0682-baseball-game) |
@@ -64,6 +65,7 @@ Focused on problem-solving, algorithmic thinking, and interview preparation.
 | [0070-climbing-stairs](https://github.com/baraiyash/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baraiyash/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/baraiyash/DSA/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/baraiyash/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baraiyash/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/baraiyash/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/baraiyash/DSA/tree/master/1688-count-of-matches-in-tournament) |
